@@ -21,7 +21,7 @@ GH Pages Custom Domain: http://d.metacubex.one
 
 GH Pages: https://metacubex.github.io/metacubexd
 
-Cloudflare Pages: https://metacubexd.pages.dev
+Cloudflare Pages: https://metacube.pages.dev/
 
 ## Usage
 
